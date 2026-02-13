@@ -1,0 +1,60 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+@argfile
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'D:/_CORELLA/0.2_Entornos Desarrollo/NetB/UsoNB/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/_CORELLA/0.2_Entornos Desarrollo/NetB/UsoNB/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'UsoNB 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'UsoNB 1.0-SNAPSHOT API'
+c.usonb
+debug
+'D:/_CORELLA/0.2_Entornos Desarrollo/NetB/UsoNB/src/main/java/Barbero.java'
+'D:/_CORELLA/0.2_Entornos Desarrollo/NetB/UsoNB/src/main/java/Cliente.java'
+'D:/_CORELLA/0.2_Entornos Desarrollo/NetB/UsoNB/src/main/java/GestorSillas.java'
+'D:/_CORELLA/0.2_Entornos Desarrollo/NetB/UsoNB/src/main/java/Peluqueria.java'
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\src\main\java\Barbero.java = 1762534699730
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\src\main\java\Cliente.java = 1762534825711
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\src\main\java\GestorSillas.java = 1762534689167
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\src\main\java\Peluqueria.java = 1762534619162
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\src\main\java = 1765879535778
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\allclasses-index.html = 1770651870554
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\allpackages-index.html = 1770651870574
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\Barbero.html = 1770651869857
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\Cliente.html = 1770651869902
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\element-list = 1770651870171
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\GestorSillas.html = 1770651870131
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\help-doc.html = 1770651870708
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\index-all.html = 1770651870645
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\index.html = 1770651870517
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\member-search-index.js = 1770651870612
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\module-search-index.js = 1770651870592
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\overview-summary.html = 1770651870691
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\overview-tree.html = 1770651870494
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\package-search-index.js = 1770651870597
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\package-summary.html = 1770651870183
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\package-tree.html = 1770651870195
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\package-use.html = 1770651870449
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\Peluqueria.html = 1770651870150
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\search.html = 1770651870669
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\tag-search-index.js = 1770651870623
+D:\_CORELLA\0.2_Entornos Desarrollo\NetB\UsoNB\target\reports\apidocs\type-search-index.js = 1770651870602
